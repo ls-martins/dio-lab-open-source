@@ -1,27 +1,13 @@
-Luciano Martins
+Descrição Profissional – Luciano Martins
 
-Profissional de Tecnologia da Informação | Gestão de Sistemas | Automação e Análise de Dados
-Experiência contínua desde 2011 no mesmo projeto corporativo
+Profissional com mais de 10 anos de experiência em automação de processos corporativos, integração e tratamento de dados, atuando em ambientes críticos de produção. Especialista em pipelines de dados, manutenção de workflows e tratamento massivo de erros**, com histórico de **redução de tempo de execução de tarefas e geração de relatórios estratégicos confiáveis.
 
-Formação
-Graduação em Gestão da Tecnologia da Informação
+Responsável por queries, views e relatórios, além de adaptação de scripts em Python e Java, deploy de aplicações Java em servidores Tomcat e participação em migração de bancos Oracle.
 
-Resumo Profissional
-Profissional com sólida experiência em projetos corporativos de grande porte no setor de telecomunicações, atuando desde 2011 no mesmo projeto, com evolução progressiva de responsabilidades técnicas. Experiência em tratamento massivo de dados, análise e correção de erros sistêmicos, automação de processos via SQL/PLSQL e otimização de geração de relatórios gerenciais, resultando em ganhos expressivos de eficiência operacional.
+Conhecimentos complementares: fundamentos de Power BI, GenAI e Cloud Computing (AWS), que ampliam sua visão estratégica sobre automação e tratamento de dados.
 
-Principais Atividades e Responsabilidades
-  Análise e Tratamento de Incidentes Sistêmicos (CRM Siebel)
-  Atuação inicial no tratamento de erros e inconsistências em sistemas Siebel dedicados a uma grande operadora de telefonia.
-  Identificação de falhas operacionais, análise de causas raiz e execução de correções sistêmicas conforme regras de negócio.
+💡 Resumo estratégico:
 
-Automação e Tratamento Massivo de Dados
-  Evolução do tratamento manual para processos massivos automatizados, utilizando SQL e PL/SQL.
-  Criação de rotinas de correção organizadas por tipologia de problemas, aumentando produtividade e reduzindo retrabalho.
-  Padronização de procedimentos técnicos para correções recorrentes em banco de dados.
-
-Análise de Dados e Geração de Relatórios Gerenciais
-  Responsável pela geração e otimização de relatórios gerenciais utilizados para acompanhamento do projeto.
-  Reestruturação completa do processo de geração de apresentações (PPT), com foco na redução de tempo de geração.
-  Desenvolvimento de soluções em Excel integrado ao banco de dados, com queries estruturadas para extração direta das informações, eliminando processos manuais intermediários.
-
-  em desenvolvimento...
+> Especialista em automação e dados, com histórico comprovado de entrega de soluções escaláveis e confiáveis. Focado em transformar dados e processos em resultados operacionais eficientes, com conhecimento sólido em SQL, integração de dados, manutenção de scripts Python/Java e fundamentos de GenAI e Cloud.
+>
+> Perfil em desenvolvimento. 
